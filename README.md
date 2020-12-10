@@ -1,5 +1,4 @@
 # momobk96.github.io
-<!DOCTYPE html>
 <html>
     <head>
         <title>My Life</title>
